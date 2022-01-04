@@ -1,10 +1,10 @@
 # Markdown mit Github Geschmack
 
-- [x] [Externer Link](Externer-Link)
-- [x] [Interner Link](Interner-Link)
-- [x] [Bilder](Bilder)
-- [x] [Emojis](Emojis) 
-- [x] [Tabellen](Tabellen)
+- [x] [Externer Link](#externer-link)
+- [x] [Interner Link](#interner-link)
+- [x] [Bilder](#bilder)
+- [x] [Emojis](#emojis) 
+- [x] [Tabellen](#tabellen)
 
 ## Externer Link
 
