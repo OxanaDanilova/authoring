@@ -1,6 +1,6 @@
 ## Markdown mit Github Geschmack
 
-- [ ] External Link
+-[ ] External Link
 
-[Google link] (# google.com)
+[Can I use] (#https://caniuse.com/)
 
