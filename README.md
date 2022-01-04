@@ -1,6 +1,10 @@
 ## Markdown mit Github Geschmack
 
--[ ] External Link
+- [ ] [Externer Link](https://docs.github.com/de)
+- [ ] [Interner Link](https://github.com/OxanaDanilova/authoring/tree/main/images)
+- [ ] Bilder
+- [ ] Emojis
+- [ ] Tabellen
 
-[Can I use](#https://caniuse.com/)
+
 
