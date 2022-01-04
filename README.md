@@ -1,6 +1,6 @@
 # Markdown mit Github Geschmack
 
-- [x] [Externer Link]()
+- [x] [Externer Link](#ExternerLink)
 - [x] [Interner Link]()
 - [x] Bilder
 - [x] Emojis 
