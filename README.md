@@ -2,5 +2,5 @@
 
 -[ ] External Link
 
-[Can I use] (#https://caniuse.com/)
+[Can I use](#https://caniuse.com/)
 
